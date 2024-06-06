@@ -1,0 +1,3 @@
+embedding_dim: 128
+hidden_size: 512
+vocab_size: 69
