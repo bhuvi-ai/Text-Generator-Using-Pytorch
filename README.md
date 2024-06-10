@@ -45,9 +45,9 @@ To set up the environment and install the required dependencies, follow these st
    ```bash
    python data.py
 
-Ensure that the bookcorpus.txt file is placed in the project directory. This file should contain the preprocessed text data from the BookCorpus dataset.
-2. Train the model:
-  To train the text generator model, run the following command
+Ensure that the bookcorpus.txt file is placed in the project directory. This file should contain the preprocessed text data from the BookCorpus dataset.<br>
+2. Train the model:<br>
+  To train the text generator model, run the following command<br>
    ```bash
     python model.py
    ```
@@ -58,13 +58,13 @@ To launch the Streamlit app and interact with the text generator, run:
   ```
 
 **Explanation of Files**
-> __pycache__/: Directory containing Python bytecode files.
-> checkpoints/: Directory where model checkpoints are saved during training.
-> lightning_logs/: Directory where PyTorch Lightning logs are stored.
-> app.py: Streamlit app for interacting with the text generator.
-> bookcorpus.txt: Preprocessed text data from the BookCorpus dataset.
-> data.py: Script for data preprocessing and loading.
-> model.py: Script defining the text generator model and training process.
-> tokenizer.json: Custom tokenizer configuration file.
-> requirements.txt: File containing the list of dependencies required for the project.
+> __pycache__/: Directory containing Python bytecode files.<br>
+> checkpoints/: Directory where model checkpoints are saved during training.<br>
+> lightning_logs/: Directory where PyTorch Lightning logs are stored.<br>
+> app.py: Streamlit app for interacting with the text generator.<br>
+> bookcorpus.txt: Preprocessed text data from the BookCorpus dataset.<br>
+> data.py: Script for data preprocessing and loading.<br>
+> model.py: Script defining the text generator model and training process.<br>
+> tokenizer.json: Custom tokenizer configuration file.<br>
+> requirements.txt: File containing the list of dependencies required for the project.<br>
 
