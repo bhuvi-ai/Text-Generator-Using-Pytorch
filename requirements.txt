@@ -1,0 +1,7 @@
+streamlit == 1.35.0
+typing
+pytorch-lightning == 2.2.5
+torch == 2.3.0+cu118
+json
+datasets
+
