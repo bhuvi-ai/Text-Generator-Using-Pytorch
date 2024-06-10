@@ -26,11 +26,11 @@ For more information on the BookCorpus dataset, visit the [Hugging Face BookCorp
 ## Installation
 
 To set up the environment and install the required dependencies, follow these steps:
-
+**Use Anaconda Platform**
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/bhuvi-ai/Text-Generator-Using-Pytorch.git
-   cd text-generator
+   cd Text-Generator-Using-Pytorch
 2. **Create and activate a Conda environment:**
      ```bash
    conda create -n text-generator python=3.10.0
