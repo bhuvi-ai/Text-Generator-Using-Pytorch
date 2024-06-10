@@ -4,17 +4,17 @@ This project is a text generator built using PyTorch Lightning. It leverages the
 
 ## Project Structure
 
-text-generator/
-├── pycache/
-├── checkpoints/
-├── lightning_logs/
-├── app.py
-├── bookcorpus.txt
-├── data.py
-├── model.py
-├── tokenizer.json
-├── requirements.txt
-└── README.md
+text-generator/<br>
+├── pycache/<br>
+├── checkpoints/<br>
+├── lightning_logs/<br>
+├── app.py<br>
+├── bookcorpus.txt<br>
+├── data.py<br>
+├── model.py<br>
+├── tokenizer.json<br>
+├── requirements.txt<br>
+└── README.md<br>
 
 
 ## Dataset
@@ -29,7 +29,7 @@ To set up the environment and install the required dependencies, follow these st
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/text-generator.git
+   git clone https://github.com/bhuvi-ai/Text-Generator-Using-Pytorch.git
    cd text-generator
 2. **Create and activate a Conda environment:**
      ```bash
